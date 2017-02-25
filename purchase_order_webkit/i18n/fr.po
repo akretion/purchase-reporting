@@ -111,6 +111,12 @@ msgid "Qty"
 msgstr "Qté"
 
 #. module: purchase_order_webkit
+#: report:addons/purchase_order_webkit/report/purchase_order.mako:259
+#: report:addons/purchase_order_webkit/report/request_quotation.mako:261
+msgid "Invoice address:"
+msgstr "Adresse de Facturation"
+
+#. module: purchase_order_webkit
 #: report:addons/purchase_order_webkit/report/purchase_order.mako:257
 msgid "Quotation N°"
 msgstr "Demande de prix N°"
